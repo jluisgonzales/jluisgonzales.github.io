@@ -56,9 +56,6 @@ Estudiante de primer año, apasionado por el desarrollo de software y la ciberse
 - Promedio acumulado: **XX / 100**
 - Materias destacadas: **XXX**
 
-### Bachiller
-#### Colegio Nacional Pichincha · 2007 · Sucre, Bolivia
-
 ---
 
 ## Proyectos destacados
